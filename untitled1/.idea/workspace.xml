@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/yiliao/yl_spider.py" line="102" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9564e6e-cbcc-45da-8c5c-74405546094e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/untitled1$chapter1_unions.coverage" NAME="chapter1_unions Coverage Results" MODIFIED="1533793422030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hk" />
+    <SUITE FILE_PATH="coverage/untitled1$renrenstart.coverage" NAME="renrenstart Coverage Results" MODIFIED="1546046896819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/renren_login" />
+    <SUITE FILE_PATH="coverage/untitled1$dome7_.coverage" NAME="dome7-交换一次返回最大数 Coverage Results" MODIFIED="1545634678955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode_test" />
+    <SUITE FILE_PATH="coverage/untitled1$12306dome.coverage" NAME="12306——dome Coverage Results" MODIFIED="1542273959401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tesseract" />
+    <SUITE FILE_PATH="coverage/untitled1$SIM_spider.coverage" NAME="SIM_spider Coverage Results" MODIFIED="1549855824087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mayi_baoka" />
+    <SUITE FILE_PATH="coverage/untitled1$text.coverage" NAME="text Coverage Results" MODIFIED="1533803974367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban_spider" />
+    <SUITE FILE_PATH="coverage/untitled1$dome4.coverage" NAME="dome4 Coverage Results" MODIFIED="1537434430940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/connetdb" />
+    <SUITE FILE_PATH="coverage/untitled1$dome4__1_.coverage" NAME="dome4 (1) Coverage Results" MODIFIED="1538039618556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_dome" />
+    <SUITE FILE_PATH="coverage/untitled1$start_douban.coverage" NAME="start_douban Coverage Results" MODIFIED="1546399253840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/douban_login" />
+    <SUITE FILE_PATH="coverage/untitled1$main2__1_.coverage" NAME="main2 (1) Coverage Results" MODIFIED="1534140474995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_nerve" />
+    <SUITE FILE_PATH="coverage/untitled1$dome3_.coverage" NAME="dome3-行为链 Coverage Results" MODIFIED="1540893388255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajaxspider" />
+    <SUITE FILE_PATH="coverage/untitled1$main.coverage" NAME="main Coverage Results" MODIFIED="1537340380033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json_dome" />
+    <SUITE FILE_PATH="coverage/untitled1$dome1.coverage" NAME="dome1 Coverage Results" MODIFIED="1542591927351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhengzedome" />
+    <SUITE FILE_PATH="coverage/untitled1$dome_Downloademoticons.coverage" NAME="dome_Downloademoticons Coverage Results" MODIFIED="1538190128875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_dome" />
+    <SUITE FILE_PATH="coverage/untitled1$dome_cookie.coverage" NAME="dome-操作cookie Coverage Results" MODIFIED="1539826179245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajaxspider" />
+    <SUITE FILE_PATH="coverage/untitled1$dome7_ip.coverage" NAME="dome7-设置代理ip Coverage Results" MODIFIED="1540175728247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajaxspider" />
+    <SUITE FILE_PATH="coverage/untitled1$dome2__1_.coverage" NAME="dome2 (1) Coverage Results" MODIFIED="1537432523996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/connetdb" />
+    <SUITE FILE_PATH="coverage/untitled1$yl_spider.coverage" NAME="yl_spider Coverage Results" MODIFIED="1546074768460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yiliao" />
+    <SUITE FILE_PATH="coverage/untitled1$system_spider.coverage" NAME="system_spider Coverage Results" MODIFIED="1546849981601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/black_eye_system" />
+    <SUITE FILE_PATH="coverage/untitled1$dome7.coverage" NAME="dome7 Coverage Results" MODIFIED="1533105884395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$dome_Downloademoticons_duoxiancheng.coverage" NAME="dome_Downloademoticons_duoxiancheng Coverage Results" MODIFIED="1539221441472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_dome" />
+    <SUITE FILE_PATH="coverage/untitled1$zuoyeqiushibaike.coverage" NAME="zuoyeqiushibaike Coverage Results" MODIFIED="1536911897509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhengzedome" />
+    <SUITE FILE_PATH="coverage/untitled1$energyspider.coverage" NAME="energyspider Coverage Results" MODIFIED="1550730511628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/energy/energy/spiders" />
+    <SUITE FILE_PATH="coverage/untitled1$dome1_chromedriver_and_selenium.coverage" NAME="dome1-测试chromedriver and selenium Coverage Results" MODIFIED="1539325435957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajaxspider" />
+    <SUITE FILE_PATH="coverage/untitled1$dome3.coverage" NAME="dome3 Coverage Results" MODIFIED="1537432880618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/connetdb" />
+    <SUITE FILE_PATH="coverage/untitled1$lagou2_selenium.coverage" NAME="lagou2-selenium爬取 Coverage Results" MODIFIED="1541057867802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajaxspider" />
+    <SUITE FILE_PATH="coverage/untitled1$dome9.coverage" NAME="dome9 Coverage Results" MODIFIED="1533117549602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$dome10.coverage" NAME="dome10 Coverage Results" MODIFIED="1533353980368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$mongodb1.coverage" NAME="mongodb1 Coverage Results" MODIFIED="1538015246742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/connetdb" />
+    <SUITE FILE_PATH="coverage/untitled1$lagou1_.coverage" NAME="lagou1-爬取拉勾网 Coverage Results" MODIFIED="1540952828665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajaxspider" />
+    <SUITE FILE_PATH="coverage/untitled1$yl_spider2.coverage" NAME="yl_spider2 Coverage Results" MODIFIED="1546394214377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yiliao" />
+    <SUITE FILE_PATH="coverage/untitled1$DomePingIp.coverage" NAME="DomePingIp Coverage Results" MODIFIED="1551333568472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonJben" />
+    <SUITE FILE_PATH="coverage/untitled1$1.coverage" NAME="1 Coverage Results" MODIFIED="1542767560128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/black_eye_system" />
+    <SUITE FILE_PATH="coverage/untitled1$dome4_.coverage" NAME="dome4-统计出现次数 Coverage Results" MODIFIED="1543461777876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode_test" />
+    <SUITE FILE_PATH="coverage/untitled1$xinxi.coverage" NAME="xinxi Coverage Results" MODIFIED="1546915931730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/xinxifasong/xinxifasong/spiders" />
+    <SUITE FILE_PATH="coverage/untitled1$dome_.coverage" NAME="dome-图像识别 Coverage Results" MODIFIED="1542090232186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tesseract" />
+    <SUITE FILE_PATH="coverage/untitled1$main1.coverage" NAME="main1 Coverage Results" MODIFIED="1534141240347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_nerve" />
+    <SUITE FILE_PATH="coverage/untitled1$L_boss_.coverage" NAME="L_boss_直聘 Coverage Results" MODIFIED="1541123688527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajaxspider" />
+    <SUITE FILE_PATH="coverage/untitled1$douban_strat__1_.coverage" NAME="douban_strat (1) Coverage Results" MODIFIED="1546508282326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/douban_login/douban_login" />
+    <SUITE FILE_PATH="coverage/untitled1$start.coverage" NAME="start Coverage Results" MODIFIED="1545272345421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/scrapy_dome/qsbk" />
+    <SUITE FILE_PATH="coverage/untitled1$SpiderMain.coverage" NAME="SpiderMain Coverage Results" MODIFIED="1529982156509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$dome8.coverage" NAME="dome8 Coverage Results" MODIFIED="1533799312833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/untitled1$doctor_start.coverage" NAME="doctor_start Coverage Results" MODIFIED="1546048814285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/doctor" />
+    <SUITE FILE_PATH="coverage/untitled1$baiduhr_spider.coverage" NAME="baiduhr_spider Coverage Results" MODIFIED="1533871217293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban_spider" />
+    <SUITE FILE_PATH="coverage/untitled1$taobao.coverage" NAME="taobao Coverage Results" MODIFIED="1540779548731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/taobao_apider_property" />
+    <SUITE FILE_PATH="coverage/untitled1$demo8_webElement.coverage" NAME="demo8-webElement Coverage Results" MODIFIED="1540349998636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajaxspider" />
+    <SUITE FILE_PATH="coverage/untitled1$getdate.coverage" NAME="getdate Coverage Results" MODIFIED="1547014887785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/xinxifasong/xinxifasong/spiders" />
+    <SUITE FILE_PATH="coverage/untitled1$pytesseract.coverage" NAME="pytesseract Coverage Results" MODIFIED="1547100305739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesseract" />
+    <SUITE FILE_PATH="coverage/untitled1$ConnectMysql.coverage" NAME="ConnectMysql Coverage Results" MODIFIED="1547794020056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1532659586944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1533804207561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban_spider" />
+    <SUITE FILE_PATH="coverage/untitled1$dome5_.coverage" NAME="dome5-字符串先小写再大写 Coverage Results" MODIFIED="1543462838030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode_test" />
+    <SUITE FILE_PATH="coverage/untitled1$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1531807851416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$xinxistart.coverage" NAME="xinxistart Coverage Results" MODIFIED="1547087183737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/xinxifasong" />
+    <SUITE FILE_PATH="coverage/untitled1$dome3__1_.coverage" NAME="dome3 (1) Coverage Results" MODIFIED="1538032443794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_dome" />
+    <SUITE FILE_PATH="coverage/untitled1$dome5.coverage" NAME="dome5 Coverage Results" MODIFIED="1538119231625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_dome" />
+    <SUITE FILE_PATH="coverage/untitled1$dome10__1_.coverage" NAME="dome10 (1) Coverage Results" MODIFIED="1533609629607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/untitled1$a_qsbk.coverage" NAME="a_qsbk Coverage Results" MODIFIED="1544153333499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/scrapy_dome/qsbk/qsbk/spiders" />
+    <SUITE FILE_PATH="coverage/untitled1$aasd.coverage" NAME="aasd Coverage Results" MODIFIED="1545881384344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$QhuanKji.coverage" NAME="QhuanKji Coverage Results" MODIFIED="1547802518917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$dome2.coverage" NAME="dome2 Coverage Results" MODIFIED="1538031505337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_dome" />
+    <SUITE FILE_PATH="coverage/untitled1$dome1__1_.coverage" NAME="dome1 (1) Coverage Results" MODIFIED="1537431543847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/connetdb" />
+    <SUITE FILE_PATH="coverage/untitled1$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1545297591436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/wxapp" />
+    <SUITE FILE_PATH="coverage/untitled1$enterprise_selenium.coverage" NAME="enterprise_selenium Coverage Results" MODIFIED="1547867385916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$dome6_N.coverage" NAME="dome6-找出第N大的元素 Coverage Results" MODIFIED="1543629360980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode_test" />
+    <SUITE FILE_PATH="coverage/untitled1$chinajs.coverage" NAME="chinajs Coverage Results" MODIFIED="1550653953368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/zhongwentest/zhongwentest/spiders" />
+    <SUITE FILE_PATH="coverage/untitled1$pytesseract1.coverage" NAME="pytesseract1 Coverage Results" MODIFIED="1547175953176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesseract" />
+    <SUITE FILE_PATH="coverage/untitled1$douban_strat.coverage" NAME="douban_strat Coverage Results" MODIFIED="1546833620902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/douban_login" />
+    <SUITE FILE_PATH="coverage/untitled1$dome6_.coverage" NAME="dome6-打开多个页面和切换页面 Coverage Results" MODIFIED="1539932941831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajaxspider" />
+    <SUITE FILE_PATH="coverage/untitled1$dome6.coverage" NAME="dome6 Coverage Results" MODIFIED="1538128630750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_dome" />
+    <SUITE FILE_PATH="coverage/untitled1$dome3gushi.coverage" NAME="dome3gushi Coverage Results" MODIFIED="1536909229832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhengzedome" />
+    <SUITE FILE_PATH="coverage/untitled1$wxappstart.coverage" NAME="wxappstart Coverage Results" MODIFIED="1545727197578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/wxapp" />
+    <SUITE FILE_PATH="coverage/untitled1$bsbdj.coverage" NAME="bsbdj Coverage Results" MODIFIED="1539225352572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_dome" />
+    <SUITE FILE_PATH="coverage/untitled1$WenSpider_sql.coverage" NAME="WenSpider_sql Coverage Results" MODIFIED="1550196579683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$dome2_.coverage" NAME="dome2-操作表单元素 Coverage Results" MODIFIED="1539327530287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ajaxspider" />
+    <SUITE FILE_PATH="coverage/untitled1$dome2_target.coverage" NAME="dome2_最接近的target的值 Coverage Results" MODIFIED="1540805162124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode_test" />
+    <SUITE FILE_PATH="coverage/untitled1$caigou_start.coverage" NAME="caigou_start Coverage Results" MODIFIED="1546914660106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/wangku" />
+    <SUITE FILE_PATH="coverage/untitled1$dome1__2_.coverage" NAME="dome1 (2) Coverage Results" MODIFIED="1534559619022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithmtest" />
+    <SUITE FILE_PATH="coverage/untitled1$ltspider.coverage" NAME="ltspider Coverage Results" MODIFIED="1535696045269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/" />
+    <SUITE FILE_PATH="coverage/untitled1$pythonGUI.coverage" NAME="pythonGUI Coverage Results" MODIFIED="1548752273868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyGUI" />
+    <SUITE FILE_PATH="coverage/untitled1$ltspider__1_.coverage" NAME="ltspider (1) Coverage Results" MODIFIED="1536042724408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/longteng" />
+    <SUITE FILE_PATH="coverage/untitled1$wxapp_spider.coverage" NAME="wxapp_spider Coverage Results" MODIFIED="1545383453806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/wxapp/wxapp/spiders" />
+    <SUITE FILE_PATH="coverage/untitled1$dingdianstart.coverage" NAME="dingdianstart Coverage Results" MODIFIED="1545982272080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/dingdiantext" />
+    <SUITE FILE_PATH="coverage/untitled1$dome1__.coverage" NAME="dome1_阿里_零钱问题 Coverage Results" MODIFIED="1540451675541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode_test" />
+    <SUITE FILE_PATH="coverage/untitled1$test.coverage" NAME="test Coverage Results" MODIFIED="1547795778158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$ConnectMysql1.coverage" NAME="ConnectMysql1 Coverage Results" MODIFIED="1548143588016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$bmw5start.coverage" NAME="bmw5start Coverage Results" MODIFIED="1547450086376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/bmw" />
+    <SUITE FILE_PATH="coverage/untitled1$startenergy.coverage" NAME="startenergy Coverage Results" MODIFIED="1551326362580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/energy" />
+    <SUITE FILE_PATH="coverage/untitled1$logo_to_day_news.coverage" NAME="logo to day_news Coverage Results" MODIFIED="1542094454481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tesseract" />
+    <SUITE FILE_PATH="coverage/untitled1$cq_luntanstart.coverage" NAME="cq_luntanstart Coverage Results" MODIFIED="1550653995819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/cq_luntan" />
+    <SUITE FILE_PATH="coverage/untitled1$douban.coverage" NAME="douban Coverage Results" MODIFIED="1546499590823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy/douban_login/douban_login/spiders" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DomePingIp.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonJben/DomePingIp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>forum.php?forumlist=1&amp;mobile=2</find>
+      <find>连接招租</find>
+      <find>ITEM</find>
+      <find>rfu5489366</find>
+      <find>&quot;\t&quot;</find>
+      <find>瘦脸针</find>
+      <find>口瘦脸针，自己去美贝尔面诊了。2800报价100单位，下周</find>
+      <find>13971995967</find>
+      <find>18936499852</find>
+      <find>wxcopy</find>
+      <find>fengmi9909</find>
+      <find>stxlwx</find>
+      <find>z_stat</find>
+      <find>HTTPERROR</find>
+      <find>HTTP</find>
+      <find>豆瓣的来历</find>
+      <find>0313-5661807</find>
+      <find>project</find>
+      <find>print</find>
+      <find>executemany</find>
+      <find>contacts_name</find>
+      <find>update_ti</find>
+      <find>localhost</find>
+      <find>jx_customer</find>
+      <find>公司地址</find>
+      <find>渭南锦航电梯有限公司</find>
+      <find>渭南饭店餐饮部</find>
+      <find>DOWNLOAD_DELAY</find>
+      <find />
+      <find>wxnumber</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>书丛APP</replace>
+      <replace>小翡</replace>
+      <replace>VSCO</replace>
+      <replace>in</replace>
+      <replace>30</replace>
+      <replace>古法红糖</replace>
+      <replace>89</replace>
+      <replace>497.5</replace>
+      <replace>微店通藏品</replace>
+      <replace>jhw870923</replace>
+      <replace>山步大哥</replace>
+      <replace>山步大哥强肾微信号</replace>
+      <replace>五虎</replace>
+      <replace>春雨医生</replace>
+      <replace>59</replace>
+      <replace>牛股形态</replace>
+      <replace>h4</replace>
+      <replace>农家蜂蜜</replace>
+      <replace>44</replace>
+      <replace>29</replace>
+      <replace>上海纤萍荟减肥服务有限公司</replace>
+      <replace>.jsp</replace>
+      <replace>#</replace>
+      <replace>坐垫</replace>
+      <replace>合川区诺美尔美容店</replace>
+      <replace>index_files</replace>
+      <replace>799</replace>
+      <replace>肛泰栓</replace>
+      <replace>马应龙麝香痔疮膏</replace>
+      <replace>&quot;-&quot;*5</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Scrapy/doctor/doctor/spiders/meifan.py" />
+        <option value="$PROJECT_DIR$/yiliao/yl_spider2.py" />
+        <option value="$PROJECT_DIR$/Scrapy/douban_login/douban_login/start_douban.py" />
+        <option value="$PROJECT_DIR$/Scrapy/douban_login/douban_login/spiders/1.py" />
+        <option value="$PROJECT_DIR$/Scrapy/douban_login/start_douban.py" />
+        <option value="$PROJECT_DIR$/Scrapy/douban_login/douban_strat.py" />
+        <option value="$PROJECT_DIR$/Scrapy/douban_login/douban_login/settings.py" />
+        <option value="$USER_HOME$/Desktop/2019年1月4日星期五/2.蜂蜜/index_files/tz-loop.php" />
+        <option value="$USER_HOME$/Desktop/2019年1月4日星期五/2.蜂蜜/index.html" />
+        <option value="$PROJECT_DIR$/Scrapy/renren_login/renren_login/settings.py" />
+        <option value="$PROJECT_DIR$/Scrapy/douban_login/douban_login/spiders/douban.py" />
+        <option value="$PROJECT_DIR$/Scrapy/wangku/caigou_start.py" />
+        <option value="$PROJECT_DIR$/black_eye_system/system_spider.py" />
+        <option value="$PROJECT_DIR$/Scrapy/wangku/wangku/settings.py" />
+        <option value="$PROJECT_DIR$/Scrapy/wangku/wangku/spiders/1.html" />
+        <option value="$PROJECT_DIR$/Scrapy/wangku/wangku/spiders/caigou.py" />
+        <option value="$PROJECT_DIR$/Scrapy/xinxifasong/xinxistart.py" />
+        <option value="$PROJECT_DIR$/Scrapy/xinxifasong/xinxifasong/spiders/getdate.py" />
+        <option value="$PROJECT_DIR$/Scrapy/xinxifasong/xinxifasong/settings.py" />
+        <option value="$PROJECT_DIR$/Scrapy/xinxifasong/xinxifasong/spiders/xinxi.py" />
+        <option value="$PROJECT_DIR$/pytesseract.py" />
+        <option value="$PROJECT_DIR$/pytesseract/pytesseract.py" />
+        <option value="$PROJECT_DIR$/pytesseract/pytesseract1.py" />
+        <option value="$PROJECT_DIR$/Scrapy/bmw/bmw5.py" />
+        <option value="$PROJECT_DIR$/Scrapy/bmw/bmw5start.py" />
+        <option value="$PROJECT_DIR$/Scrapy/bmw/bmw/settings.py" />
+        <option value="$PROJECT_DIR$/Scrapy/bmw/bmw/spiders/bmw5.py" />
+        <option value="$PROJECT_DIR$/yiliao/yl_spider.py" />
+        <option value="$PROJECT_DIR$/ConnectMysql.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/QhuanKji.py" />
+        <option value="$PROJECT_DIR$/enterprise_selenium.py" />
+        <option value="$USER_HOME$/Desktop/QiHuan/crm.qh0913.com.tar/crm.qh0913.com/App/Conf/db.php" />
+        <option value="D:/phpStudy/WWW/test.com/App/Conf/db.php" />
+        <option value="$USER_HOME$/Desktop/QiHuan/crm.qh0913.com.tar/crm.qh0913.com/Base/Common/functions.php" />
+        <option value="$PROJECT_DIR$/ConnectMysql1.py" />
+        <option value="$USER_HOME$/Desktop/2019年1月24日星期四/1.口红机/index.html" />
+        <option value="$PROJECT_DIR$/pythonGUI.py" />
+        <option value="$PROJECT_DIR$/pyGUI/pythonGUI.py" />
+        <option value="$PROJECT_DIR$/111.html" />
+        <option value="$PROJECT_DIR$/mayi_baoka/SIM_spider.py" />
+        <option value="$PROJECT_DIR$/WenSpider_sql.py" />
+        <option value="$PROJECT_DIR$/Scrapy/zhongwentest/zhongwentest/spiders/zhongwen.py" />
+        <option value="$PROJECT_DIR$/Scrapy/zhongwentest/zhongwentest/spiders/chinajs.py" />
+        <option value="$PROJECT_DIR$/Scrapy/chuangjian.py" />
+        <option value="$PROJECT_DIR$/Scrapy/energy/startenergy.py" />
+        <option value="$PROJECT_DIR$/Scrapy/energy/energy/settings.py" />
+        <option value="$PROJECT_DIR$/Scrapy/cq_luntan/cq_luntan/spiders/weisuen.py" />
+        <option value="$PROJECT_DIR$/Scrapy/energy/energy/spiders/energyspider.py" />
+        <option value="$USER_HOME$/Desktop/2019年2月21日星期四/3.股票/index_files/index1.html" />
+        <option value="$PROJECT_DIR$/pythonJben/DomePingIp.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="C:/python3.6" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\untitled1\yiliao" />
+      <recent name="F:\untitled1\web" />
+      <recent name="F:\untitled1\tesseract" />
+      <recent name="F:\untitled1\thread_dome\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\untitled1\pyGUI" />
+      <recent name="F:\untitled1\pytesseract" />
+      <recent name="F:\untitled1\Scrapy\douban_login\douban_login" />
+      <recent name="F:\untitled1\Scrapy\douban_login" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.DomePingIp">
+    <configuration name="DomePingIp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonJben" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonJben/DomePingIp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="chinajs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy/zhongwentest/zhongwentest/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy/zhongwentest/zhongwentest/spiders/chinajs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="cq_luntanstart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy/cq_luntan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy/cq_luntan/cq_luntanstart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dome6-找出第N大的元素" type="PythonConfigurationType" factoryName="Python">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LintCode_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LintCode_test/dome6-找出第N大的元素.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="energyspider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy/energy/energy/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy/energy/energy/spiders/energyspider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="startenergy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scrapy/energy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapy/energy/startenergy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.dome6-找出第N大的元素" />
+      <item itemvalue="Python.ltspider" />
+      <item itemvalue="Python.chinajs" />
+      <item itemvalue="Python.cq_luntanstart" />
+      <item itemvalue="Python.startenergy" />
+      <item itemvalue="Python.energyspider" />
+      <item itemvalue="Python.DomePingIp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DomePingIp" />
+        <item itemvalue="Python.startenergy" />
+        <item itemvalue="Python.energyspider" />
+        <item itemvalue="Python.cq_luntanstart" />
+        <item itemvalue="Python.chinajs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9564e6e-cbcc-45da-8c5c-74405546094e" name="Default" comment="" />
+      <created>1529635379006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529635379006</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.07782516" side_tool="true" weight="0.6248649" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32972974" />
+      <window_info anchor="bottom" x="0" y="424" width="1920" height="192" id="Run" order="2" sideWeight="0.9221748" weight="0.3535135" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.21189189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49758455" visible="true" weight="0.13859275" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32942432" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5024155" side_tool="true" weight="0.20682302" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.68108106" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32972974" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32864866" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32864866" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" sideWeight="0.5024155" side_tool="true" weight="0.20682302" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32972974" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" x="0" y="424" width="1920" height="192" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3762162" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49758455" visible="true" weight="0.12153518" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32864866" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50053304" side_tool="true" weight="0.32216215" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32942432" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32864866" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32893288" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32972974" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/QiHuan/crm.qh0913.com.tar/crm.qh0913.com/App/Conf/db.php" />
+    <entry file="file://$USER_HOME$/Desktop/QiHuan/crm.qh0913.com.tar/crm.qh0913.com/Base/Lib/Core/Db.class.php" />
+    <entry file="file://$USER_HOME$/Desktop/QiHuan/crm_qh0913_com_20181216_105218.sql" />
+    <entry file="file://D:/phpStudy/WWW/test.com/App/Conf/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/QiHuan/crm.qh0913.com.tar/crm.qh0913.com/Base/Common/functions.php" />
+    <entry file="file://$USER_HOME$/Desktop/QiHuan/crm.qh0913.com.tar/crm.qh0913.com/Base/Common/runtime.php" />
+    <entry file="file://$USER_HOME$/Desktop/QiHuan/crm.qh0913.com.tar/crm.qh0913.com/mobile.php" />
+    <entry file="file://$USER_HOME$/Desktop/QiHuan/crm.qh0913.com.tar/crm.qh0913.com/index.php" />
+    <entry file="file://$USER_HOME$/Desktop/QiHuan/crm.qh0913.com.tar/crm.qh0913.com/App/Tpl/ActionLog/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/QiHuan/crm.qh0913.com.tar/crm.qh0913.com/App/Tpl/Announcement/view.html" />
+    <entry file="file://$USER_HOME$/Desktop/QiHuan/crm.qh0913.com.tar/crm.qh0913.com/App/Conf/config.php" />
+    <entry file="file://$USER_HOME$/Desktop/QiHuan/crm.qh0913.com.tar/crm.qh0913.com/App/Conf/tags.php" />
+    <entry file="file://$USER_HOME$/Desktop/QiHuan/crm.qh0913.com.tar/crm.qh0913.com/App/Runtime/Cache/0b52b62935a859f244b316dc419945e2.php" />
+    <entry file="file://$PROJECT_DIR$/ConnectMysql1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1903">
+          <caret line="105" column="30" lean-forward="true" selection-start-line="105" selection-start-column="30" selection-end-line="105" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectMysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1044">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Lib/site-packages/pymysql/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Lib/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="515" selection-start-line="515" selection-end-line="515" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2019年1月24日星期四/1.口红机/index.html" />
+    <entry file="file://$PROJECT_DIR$/Scrapy/bmw/bmw5start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyGUI/pythonGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/dome4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enterprise_selenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="92" column="45" selection-start-line="90" selection-start-column="12" selection-end-line="92" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxspider/lagou2-selenium爬取.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxspider/lagou1-爬取拉勾网.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxspider/dome8-webElement.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxspider/L_boss_直聘.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yiliao/yl_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/111.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8671">
+          <caret line="393" selection-start-line="393" selection-end-line="393" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5543">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aasd.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QhuanKji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="22" column="114" selection-start-line="22" selection-start-column="114" selection-end-line="22" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="146" column="8" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mayi_baoka/SIM_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Lib/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy/dingdiantext/dingdianstart.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WenSpider_sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="165" column="35" selection-start-line="165" selection-start-column="35" selection-end-line="165" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy/zhongwentest/zhongwentest/spiders/zhongwen.py" />
+    <entry file="file://$PROJECT_DIR$/Scrapy/zhongwentest/zhongwentest/spiders/chinajs.py" />
+    <entry file="file://$PROJECT_DIR$/Scrapy/energy/energy/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy/cq_luntan/cq_luntan/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy/cq_luntan/cq_luntan/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy/chuangjian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy/cq_luntan/cq_luntanstart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy/cq_luntan/cq_luntan/spiders/weisuen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy/energy/energy/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy/energy/startenergy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/2019年2月21日星期四/3.股票/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/2019年2月21日星期四/3.股票/index_files/index1.html" />
+    <entry file="file://$PROJECT_DIR$/Scrapy/energy/energy/spiders/energyspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonJben/DomePingIp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
